@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<alunos>
+    <aluno id="1">
+        <Nome>gustavo</Nome>
+        <CPF>896547</CPF>
+        <Curso>informatica</Curso>
+        <Endereco>
+            <Rua>alves</Rua>
+            <Numero>4589</Numero>
+            <Bairro>vila</Bairro>
+            <Cidade>Diadema</Cidade>
+            <Estado>SP</Estado>
+            <CEP>96321</CEP>
+        </Endereco>
+    </aluno>
+</alunos>
